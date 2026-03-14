@@ -11,12 +11,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.firebasestorage.app",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSy...",
+  authDomain: "sm-type-02.firebaseapp.com",
+  projectId: "sm-type-02",
+  storageBucket: "sm-type-02.firebasestorage.app",
+  messagingSenderId: "1049800015777",
+  appId: "1:1049800015777:web:xxxxx"
 };
 
 const app = initializeApp(firebaseConfig);
